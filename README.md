@@ -1,4 +1,5 @@
 Make sure you run the install.bat
+
 If your image doesn't get send to your server run the fix.py
 
 
